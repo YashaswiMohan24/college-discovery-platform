@@ -34,3 +34,56 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+
+# College Discovery Platform
+
+A production-grade full stack college discovery platform built using Next.js, Prisma, PostgreSQL and TypeScript.
+
+## Features
+
+- College Listings
+- College Detail Pages
+- Authentication System
+- Save Colleges Feature
+- Responsive UI
+- PostgreSQL Database
+- Prisma ORM
+
+## Tech Stack
+
+### Frontend
+- Next.js 16
+- React 19
+- TypeScript
+- TailwindCSS
+
+### Backend
+- Next.js API Routes
+- Prisma ORM
+- PostgreSQL
+
+### Authentication
+- JWT
+- bcryptjs
+
+## Database
+- Neon PostgreSQL
+
+## Deployment
+- Vercel (Upcoming)
+
+## Run Locally
+
+```bash
+npm install
+npm run dev
+
+
+---
+
+# STEP 13 — PUSH README
+
+Run:
+
+```bash id="z3r8vx"
+git add .
